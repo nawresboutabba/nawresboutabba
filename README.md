@@ -1,7 +1,7 @@
 
 <h2> Hey there! I'm Nawres.</h2>
- <img  align="right" alt="GIF"  src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" ![anna-havrylyukh-](https://github.com/nawresboutabba/nawresboutabba/assets/47152092/ac99afea-4d47-47ba-bd6d-19b79e949238)
-width="500" />
+![anna-havrylyukh-](https://github.com/nawresboutabba/nawresboutabba/assets/47152092/f6c53d2d-65db-4063-a256-74a10f200879)
+
 
 <h3> 👨🏻‍💻 About Me </h3>
 
