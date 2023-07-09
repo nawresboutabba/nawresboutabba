@@ -1,6 +1,6 @@
 
 <h2> Hey there! I'm Nawres.</h2>
-![anna-havrylyukh-](https://github.com/nawresboutabba/nawresboutabba/assets/47152092/f6c53d2d-65db-4063-a256-74a10f200879)
+<img src="https://github.com/nawresboutabba/nawresboutabba/assets/47152092/f6c53d2d-65db-4063-a256-74a10f200879">
 
 
 <h3> 👨🏻‍💻 About Me </h3>
