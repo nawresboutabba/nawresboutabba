@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently working with Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering, computer programming and Mathematics.
 - 💼 &nbsp; Android developer and front-end web developer.
@@ -13,9 +13,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++ | HTML | CSS | JavaScript | swift 
-- 🌐 &nbsp; Android | flutter | IOS
-- 🛢 &nbsp; MySQL | Firebase | Mongodb
+- 💻 &nbsp; Python | Dart | Java | C++ | HTML | CSS | JavaScript | swift | Kotlin 
+- 🌐 &nbsp; Android | flutter | IOS | React | Nextjs 
+- 🛢 &nbsp; MySQL | Firebase | Mongodb | postgresql 
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git| Xcode
 - 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | OpenShot
 
@@ -32,4 +32,4 @@
 ----
 Credit: [NawresBoutabba](https://github.com/nawresboutabba)
 
-Last Edited on: 01/06/2021
+Last Edited on: 09/07/2023
