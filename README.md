@@ -1,5 +1,6 @@
+
 <h2> Hey there! I'm Nawres. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://github.com/nawresboutabba/nawresboutabba/assets/47152092/c58bb49e-bd96-4cd2-a3ad-d319cbd1febb)" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
