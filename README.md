@@ -10,7 +10,7 @@
 ## 👨🏻‍💻 About Me
 
 - 🔹 CTO at <strong>BeAce</strong>, a gamified AI coaching app.  
-- 🔹 5+ years of experience as a software engineer, specializing in **LLM agents, AI-driven apps, and full-stack development**.  
+- 🔹 5+ years of experience as a Software Engineer, specializing in **LLM agents, AI-driven apps, and full-stack development**.  
 - 🔹 Passionate about **AI agents, gamified UX, human-computer interaction, and 3D web experiences**.  
 - 🔹 Chess enthusiast ♟️ — strategy and problem-solving fuel my AI projects.  
 - 🔹 Designer & 3D creator: Figma, Blender, Three.js, Adobe XD.  
@@ -18,39 +18,51 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 My Skills
 
-**Languages & Platforms:**  
-JavaScript | TypeScript | React | React Native | Vue.js | Node.js | Python | Dart | Java | C++ | Swift | Kotlin | HTML | CSS  
+**Languages & Platforms:** Python | JavaScript | TypeScript | React | React Native | Vue.js | Node.js | Dart | Java | C++ | Swift | Kotlin | HTML | CSS  
 
-**Frameworks & Tools:**  
-Flutter | Next.js | Android Studio | Xcode | VS Code | PyCharm | Git | Docker | SaaS & AaaS Platforms  
+**Frameworks & Tools:** Flutter | Next.js | Android Studio | Xcode | VS Code | PyCharm | Git | Docker | SaaS & AaaS Platforms  
 
-**Databases:**  
-MySQL | PostgreSQL | MongoDB | Firebase | Redis  
+**Databases:** MySQL | PostgreSQL | MongoDB | Firebase | Redis  
 
-**Design & 3D Tools:**  
-Figma | Blender | Adobe XD | Illustrator | Photoshop | OpenShot | Three.js  
+**Design & 3D Tools:** Figma | Blender | Adobe XD | Illustrator | Photoshop | OpenShot | Three.js  
 
-**Specialties:**  
-**LLM & AI Agents** | Gamified UX | Mobile & Web Development | 3D Web Experiences | SaaS → AaaS Architecture | Chess AI & Strategy | UI/UX Design  
+**Specialties:** LLM & AI Agents | Gamified UX | Mobile & Web Development | 3D Web Experiences | SaaS → AaaS Architecture | Chess AI & Strategy | UI/UX Design
 
 ---
 
-## 🚀 Projects & Showcase
+## 🚀 Featured Projects
 
-- **BeAce:** Gamified AI coaching app with interactive stations and LLM-powered guidance.  
-- **AI Agent Experiments:** Personal projects exploring multi-agent LLM collaboration and decision-making.  
-- **3D Web Projects:** Interactive experiences using Three.js and Blender.  
+- **BeAce (Organization)** – Private gamified AI coaching app with **LLM-powered stations** and interactive gamification.  
+
+- **AI Agent Experiments** – Private personal projects exploring multi-agent LLM collaboration and decision-making.  
+
+- **3D Web Experiences** – Private projects creating immersive interactive web experiences using Three.js & Blender.  
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nawresboutabba&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawresboutabba&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+- ⭐ **Top Contributor** in BeAce organization projects  
+- 🌟 **GitHub Stars:** Multiple repositories received community recognition  
+- 🏅 **Open-Source Contributions:** AI agent and 3D web projects  
+- 💻 **Pinned Private Repos:** BeAce, AI Agent Experiments, 3D Web  
+- 🥇 **Recognition:** Featured in community showcases for gamified AI projects  
+
+---
+
+## 🎖 Badges & Highlights
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![SaaS & AaaS](https://img.shields.io/badge/-SaaS→AaaS-4BC51D?style=flat)
 
 ---
 
